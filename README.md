@@ -102,6 +102,7 @@ All skills live under `skills/` and are discoverable by the [skills.sh CLI](http
 - LDAP injection strings
 - Special character fuzzing
 - Authentication bypass patterns
+- [SkillHawk](https://github.com/Berserk-hub150/skillhawk) - Zero-dependency static security scanner for Agent Skills, SKILL.md files, and MCP configurations; flags prompt injection, unsafe shell behavior, credential access, privilege escalation, and data-exfiltration patterns without executing the target.
 
 ### Passwords (`security-passwords`)
 **Curated password lists for authorized credential testing**
